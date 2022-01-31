@@ -1,0 +1,5 @@
+nginx-site-conf (0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- nikolaevov <nikolaevov@local.ru>  Sat, 29 Jan 2022 14:04:45 +0000

@@ -1,0 +1,10 @@
+Package: nginx-site-conf
+Version: 0.1-1
+Architecture: all
+Maintainer: nikolaevov <nikolaevov@local.ru>
+Installed-Size: 18
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Some example
+ Some example
